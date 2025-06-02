@@ -1,6 +1,6 @@
 # 🔧 EDHamPy
 
-**EDHamPy** is a Python-based, highly parallelized **Exact Diagonalization (ED)** package tailored for solving various many-body quantum physics problems. It currently supports simulation of **Fractional Quantum Anomalous Hall (FQAH)** systems on models with crystal lattice translation symmetry and **Fractional Quantum Hall (FQH)** systems on **torus geometry**.
+**EDHamPy** (*Eat Ham Pie* or in French *manger de la quiche*) is a Python-based, highly parallelized **Exact Diagonalization (ED)** package tailored for solving various many-body quantum physics problems. It currently supports simulation of **Fractional Quantum Anomalous Hall (FQAH)** systems on models with crystal lattice translation symmetry and **Fractional Quantum Hall (FQH)** systems on **torus geometry**.
 
 ---
 
