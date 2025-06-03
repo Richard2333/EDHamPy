@@ -17,7 +17,7 @@
 - **Project Creator**: Xin Lu
 - **Core Developers**: Xin Lu, Min Li
 - **Special Thanks**: 
-  - Jianpeng Liu and Zhongqing Guo: Provided benchmark references and helpful discussions on FQAH simulations. In particular, Xin Lu works as Research Assistant Professor in Prof. J.-P. Liu’s group at ShanghaiTech University at the moment of the project kickoff.
+  - Jianpeng Liu, Zhongqing Guo and Yanran Shi: Provided benchmark references and helpful discussions on FQAH simulations. In particular, Xin Lu works as Research Assistant Professor in Prof. Jianpeng Liu’s group at ShanghaiTech University at the moment of the project kickoff.
   - Guillaume Roux: Initiated Xin Lu on the technique of Exact Diagonalization. Xin Lu received, as Master 2 student, his lectures at ICFP in France during the [Numerical Physics course](http://www.lptms.universite-paris-saclay.fr/wiki-cours/index.php/ICFP_NumPhys_Paris). 
 
 ---
