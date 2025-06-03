@@ -26,7 +26,7 @@
 
 - Supports exact diagonalization for:
   - **Fractional Quantum Hall states** on torus geometry
-  - **Fractional Chern Insulator / Anomalous Hall states**
+  - **Fractional Chern Insulator / Fractional Anomalous Hall states**
 - Parallelized sparse matrix diagonalization (MPI-based)
 - Multiple Lanczos-type algorithms available: Trivial Lanczos, Partial Reorthogonalization, Partial Reorthogonalization with Cauchy Convergence criterion, Partial Reorthogonalization with Residual Value Monitorning
 
